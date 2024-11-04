@@ -69,3 +69,5 @@ def hero_action(hero):
 
 Archatti = Archatti("Архаттий", 120, 80)
 hero_action(Archatti)
+
+t = []
